@@ -18,3 +18,25 @@ Feature selection with correlation, univariate feature selection, recursive feat
 
 
 ![alt text](https://github.com/easonzhang1220/Breast-Cancer-Wisconsin-Diagnostic/blob/master/src/pictures/k.jpg)
+
+
+#Data
+--------------------
+#Codes
+------------
+#Train
+-------
+#Test
+-----
+#Cite
+-----
+#Reference
+
+1.Breast Cancer Survivorship: A Comprehensive Review of Long-Term Medical Issues and Lifestyle Recommendations
+Balazs I Bodai, MD, FACS
+
+2. VARIOUS TYPES AND MANAGEMENT OF BREAST CANCER: AN OVERVIEW
+Ganesh N. Sharma,1,* Rahul Dave,1 Jyotsana Sanadya,2 Piush Sharma,2 and K. K Sharma3
+
+3. SF3B1 mutations constitute a novel therapeutic target in breast cancer
+Sarah L Maguire,1,† Andri Leonidou,1,2,† Patty Wai,1,2,† Caterina Marchiò,2,3 Charlotte KY Ng,3,4 Anna Sapino,2 Anne-Vincent Salomon,5,6 Jorge S Reis-Filho,3,4 Britta Weigelt,3,4 and Rachael C Natrajan1,2,*
