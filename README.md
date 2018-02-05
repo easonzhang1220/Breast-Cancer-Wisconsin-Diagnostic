@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin Diagnostic
+# Breast Cancer Diagnostic
 
 
 # INTRODUCTION
