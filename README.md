@@ -1,26 +1,20 @@
 # Breast Cancer Wisconsin Diagnostic
 
-![alt text](https://github.com/easonzhang1220/Breast-Cancer-Wisconsin-Diagnostic/blob/master/src/pictures/k.jpg)
-
 
 # INTRODUCTION
-In this data analysis report, I usually focus on feature visualization and selection as a different from other kernels. Feature selection with correlation, univariate feature selection, recursive feature elimination, recursive feature elimination with cross validation and tree based feature selection methods are used with random forest classification. Apart from these, principle component analysis are used to observe number of components.
 
-**Enjoy your data analysis!!!**
+Breast Cancer is Diagnostic threaten many woman nowadays, the Diagnostic system and recommand latest research results is quit useful for certurn people.
+For this proposal contains two parts: 
+1. Breast Cancer Diagnostic 
+	we training Breast Cancer Diagnostic model to predict whether the cancer is benign or malignant with data from Kaggle and UCI Breast Cancer DataSet(https://archive.ics.uci.edu/ml/datasets/breast+cancer)
 
-# Data Analysis
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load in 
+2. Last Research materials recommendation system
+	We create dataset with lasted medical papers, researchs via PubMED,and stored in elasticsearch system, so we can push documents with keys words got from Breast Cancer Diagnostic system.
 
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-import seaborn as sns # data visualization library  
-import matplotlib.pyplot as plt
-# Input data files are available in the "../input/" directory.
-# For example, running this (by clicking run or pressing Shift+Enter) will list the files in the input directory
-import time
-from subprocess import check_output
-print(check_output(["ls", "../input"]).decode("utf8"))
 
-# Any results you write to the current directory are saved as output.
+In Diagnostic part, I usually focus on feature visualization and selection as a different from other kernels. 
+Feature selection with correlation, univariate feature selection, recursive feature elimination, recursive feature elimination with cross validation and tree based feature selection methods are used with random forest classification. Apart from these, principle component analysis are used to observe number of components.
+
+
+
+![alt text](https://github.com/easonzhang1220/Breast-Cancer-Wisconsin-Diagnostic/blob/master/src/pictures/k.jpg)
